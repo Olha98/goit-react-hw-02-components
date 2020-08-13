@@ -3,7 +3,6 @@ import ListItem from './ListItem/ListItem'
 import style from './List.module.css'
 
 const List = ({elements}) =>{
-  
 
     return(
       <>
